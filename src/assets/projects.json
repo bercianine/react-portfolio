@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Something",
+    "description": "Lorem ipsum",
+    "image": "https://framerusercontent.com/images/uJJL3URo5ad6m5vyjrgNNdvBYSk.png?scale-down-to=1024",
+    "tags": ["Ruby on Rails", "JS"],
+    "githubLink": "https://github.com/elenaprous/movin-app",
+    "content": {
+      "context": "The line of digital products V-Baby brings together technology and engagement to help Imaging Centers in providing a unique experience for pregnant women's journey. In the B2B side, there is an IOT solution as well as a desktop program that make live stream.",
+      "challenge": "It is important that users have the possibility of personalizing their ultrasounds before saving them from the app. When shared with their networks, those images could spread the name of V-Baby and help other moms find us. So our two main goals are:",
+      "my role": "Working at V Lab, I lead all design processes. In this project I was responsible for all UX/UI related tasks, including research, creation and validation. My team was formed by amazing and talented people, including Carla Jesus as Product Owner, Pietro Schiavinato as Tech Lead, Nicholas Matias as Front-End Developer.",
+      "Business Perspective": "Alongside the relevance of this solution for the users, there are also benefits for the company, as the exposure of V-Baby may spark the desire in many pregnant women who don't have it at their clinics to ask for it to their doctors, generating leads for us. Intensifying brand awareness is something of great importance, with that in mind we noticed that this project could be tailored to have a value proposition for the clients as well, the clinics. By adding their logo next to V-Baby's we would create a commercial argument for acquiring our technology to, among many other things, expose your brand.",
+      "xxx": "Alongside the relevance of this solution for the users, there are also benefits for the company, as the exposure of V-Baby may spark the desire in many pregnant women who don't have it at their clinics to ask for it to their doctors, generating leads for us. Intensifying brand awareness is something of great importance, with that in mind we noticed that this project could be tailored to have a value proposition for the clients as well, the clinics. By adding their logo next to V-Baby's we would create a commercial argument for acquiring our technology to, among many other things, expose your brand.ire in many pregnant women who don't have it at their clinics to ask for it to their doctors, generating leads for us. Intensifying brand awareness is something of great importance, with that in mind we noticed that this project could be tailored to have a value proposition for the clients as well, the clinics. By adding their logo next to V-Baby's we would create a commercial argument for acquiring our technology to, among many other things, expose your brand."
+    }
+  },
+  {
+    "name": "P2",
+    "description": "Lorem ipsum dolor",
+    "image": "https://framerusercontent.com/images/1hVAqypCgWrqGpXqtwZlwSgtUU.png?scale-down-to=1024",
+    "content": {
+      "context": "The line of digital products V-Baby brings together technology and engagement to help Imaging Centers in providing a unique experience for pregnant women's journey. In the B2B side, there is an IOT solution as well as a desktop program that make live stream.",
+      "challenge": "It is important that users have the possibility of personalizing their ultrasounds before saving them from the app. When shared with their networks, those images could spread the name of V-Baby and help other moms find us. So our two main goals are:"
+    }
+  }
+]

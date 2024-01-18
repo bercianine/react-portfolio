@@ -1,0 +1,18 @@
+.menu {
+  display: flex;
+  flex-direction: column;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  height: fit-content;
+
+  a:active {
+    color: white;
+  }
+}
+
+.project {
+  display: flex;
+  gap: 2rem;
+  scroll-margin-top: 1rem;
+}
