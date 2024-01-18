@@ -8,5 +8,5 @@ export default defineConfig({
     {enforce: 'pre', ...mdx(/* jsxImportSource: …, otherOptions… */)},
     react()
   ],
-  base: ""
+  base: "/"
 })
